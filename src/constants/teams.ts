@@ -23,6 +23,9 @@ const PERTAMINA_COLOR = '#ff2b08';
 const TRIDENT_COLOR = '#384bf9';
 const BWT_ARDEN_COLOR = '#ff88d3';
 
+const UNI_VIRTUOSI_COLOR = '#ffd600';
+const PREMA_COLOR = '#db1500';
+
 export const TEAMS: Team[] = [
   {name: 'Mercedes', color: MERCEDES_COLOR},
   {name: 'Ferrari', color: FERRARI_COLOR},
@@ -64,6 +67,16 @@ export const TEAMS: Team[] = [
   {name: 'Williams 2003', color: WILLIAMS_COLOR},
   {name: 'Brawn 2009', color: MCLAREN_COLOR},
   {name: 'Lotus 1978', color: LOTUS_COLOR},
+  {name: 'Art GP ’19', color: ART_GRAND_PRIX_COLOR},
+  {name: 'Campos ’19', color: CAMPOS_VEXATEC_COLOR},
+  {name: 'Carlin ’19', color: CARLIN_COLOR},
+  {name: 'Sauber Junior Charouz ’19', color: CHAROUZ_COLOR},
+  {name: 'Dams ’19', color: DAMS_COLOR},
+  {name: 'Uni-Virtuosi ‘19', color: UNI_VIRTUOSI_COLOR},
+  {name: 'MP Motorsport ‘19', color: MP_MOTORSPORT_COLOR},
+  {name: 'Prema ’19', color: PREMA_COLOR},
+  {name: 'Trident ’19', color: TRIDENT_COLOR},
+  {name: 'Arden ’19', color: BWT_ARDEN_COLOR},
   {name: 'Ferrari 1990', color: FERRARI_COLOR},
   {name: 'McLaren 2010', color: MCLAREN_COLOR},
   {name: 'Ferrari 2010', color: FERRARI_COLOR},
