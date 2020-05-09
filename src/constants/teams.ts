@@ -31,7 +31,7 @@ const CARLIN_COLOR_19 = '#0A505A';
 const CHAROUZ_COLOR_19 = '#840D2B';
 const DAMS_COLOR_19 = '#00E1EB';
 const MP_MOTORSPORT_COLOR_19 = '#F4736C';
-const TRIDENT_COLOR_19 = #2D5AD7'';
+const TRIDENT_COLOR_19 = '#2D5AD7';
 const BWT_ARDEN_COLOR_19 = '#FAA0BE';
 
 export const TEAMS: Team[] = [
